@@ -100,7 +100,7 @@ python app.py
 ---
 
 ### Customer Segmentation Graph
-![Customer Segmentation](segmentation_graph.png)
+![Customer Segmentation](segment_graph.png)
 
 ---
 
